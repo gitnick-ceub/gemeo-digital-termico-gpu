@@ -1,9 +1,12 @@
 # Gêmeo digital térmico de hardware computacional
 
 **Fundamentos de Engenharia · CEUB · Engenharia de Software**  
-**Autor:** Nicolas Melo · **Conta acadêmica:** [gitnick-ceub](https://github.com/gitnick-ceub)
 
-Estudo de um dissipador híbrido de alumínio e cobre para uma fonte térmica equivalente de GPU, integrando materiais, química, sustentabilidade, expressão gráfica, transferência de calor e mecânica dos sólidos. O repositório reúne o relatório final, modelos CAD, simulações, dados, figuras e o aplicativo web complementar.
+**Autores:** Nicolas Melo e Alisson Lima Borba Lopes · **Contas acadêmicas:** [gitnick-ceub](https://github.com/gitnick-ceub) e [alissonblopes](https://github.com/alissonblopes)
+
+Este projeto apresenta o estudo de um dissipador térmico híbrido de alumínio e cobre, desenvolvido para uma fonte térmica equivalente à de uma GPU. O trabalho integra conhecimentos de ciência dos materiais, química, sustentabilidade, expressão gráfica, transferência de calor e mecânica dos sólidos, abordando diferentes aspectos envolvidos na concepção e análise da solução proposta.
+
+O repositório reúne os principais materiais produzidos ao longo do projeto, incluindo o relatório final, modelos CAD, simulações, conjuntos de dados, figuras e um aplicativo web complementar, proporcionando uma visão abrangente do desenvolvimento e dos resultados obtidos.
 
 **Repositório:** https://github.com/gitnick-ceub/gemeo-digital-termico-gpu  
 **Versão de entrega:** [`entrega-2026-10-18`](https://github.com/gitnick-ceub/gemeo-digital-termico-gpu/releases/tag/entrega-2026-10-18)  
